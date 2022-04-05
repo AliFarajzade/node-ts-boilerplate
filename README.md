@@ -1,6 +1,6 @@
 # TypeScript NodeJs Boilerplate
 
-[![TypeScript Node](logo.svg?sanitize=true)](https://raw.githubusercontent.com/TypeStrong/ts-node/HEAD/logo.svg?sanitize=true)
+![TypeScript and Node](https://raw.githubusercontent.com/TypeStrong/ts-node/HEAD/logo.svg?sanitize=true "Logo")
 
 ### Languages and Tools:
 
