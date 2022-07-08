@@ -21,4 +21,4 @@
 
 ## To lint the files, run:
 
-    npm lint
+    npm run lint
