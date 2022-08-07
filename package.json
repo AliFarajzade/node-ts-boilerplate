@@ -1,0 +1,23 @@
+{
+    "name": "node-ts-boilerplate",
+    "version": "1.0.0",
+    "description": "Nodejs with TypeScript boilterplate for quick start.",
+    "scripts": {
+        "dev": "concurrently \"npx tsc -w\" \"nodemon ./dist/app.js\"",
+        "start": "node ./dist/app.js",
+        "lint": "eslint src/**/*.ts"
+    },
+    "author": "Ali Farajzade",
+    "devDependencies": {
+        "@typescript-eslint/eslint-plugin": "^5.32.0",
+        "@typescript-eslint/parser": "^5.32.0",
+        "concurrently": "^7.3.0",
+        "eslint": "^8.21.0",
+        "nodemon": "^2.0.19",
+        "prettier": "^2.7.1",
+        "typescript": "^4.7.4"
+    },
+    "engines": {
+        "node": ">=18.0.0"
+    }
+}
